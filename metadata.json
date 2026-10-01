@@ -1,0 +1,6 @@
+{
+  "name": "CampusPulse AI - College Services & Activities FAQ Bot",
+  "description": "Smart college assistant answering student questions on campus services, academic deadlines, financial aid, housing, dining, and student activities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
